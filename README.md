@@ -1,5 +1,10 @@
 # Azucena Rodriguez
 
+_Aspiring UX Writer/Reseracher pursuing a degree in User Experience_
+
+### Projects
+
+
 ### Education
 
 **Michigan State University | East Lansing, MI**\
