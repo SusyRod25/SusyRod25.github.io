@@ -3,6 +3,8 @@
 _Aspiring UX Writer/Reseracher pursuing a degree in User Experience_
 
 ### Projects
+[a relative link](other_file.md)
+This is [an example](snagtecharticle.md "Title") inline link.
 
 
 ### Education
