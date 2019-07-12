@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
+Michigan State University | East Lansing, MI
+B.A. Experience Architecture (User Experience) | Minor: Entrepreneurship & Innovation Expected December 2019 | GPA: 3.3
+– Dean’s List: Fall 2015, Spring 2017, Fall 2017, Spring 2018
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
