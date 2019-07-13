@@ -8,7 +8,7 @@ _Aspiring UX Writer/Reseracher pursuing a degree in User Experience_
 B.A. Experience Architecture (User Experience)  
 Minor: Entrepreneurship & Innovation    
 Expected December 2019 | GPA: 3.3
-- Dean’s List: Fall 2015, Spring 2017, Fall 2017, Spring 2018
+– Dean’s List: Fall 2015, Spring 2017, Fall 2017, Spring 2018
 
 ### Experience
 
@@ -58,5 +58,10 @@ Javascript.
 This is [an example](snagtecharticle.md "Title") inline link.
 
 ### Certifications
+
+**Coursera | Design Thinking for Innovation | 7/2017**
+_VAFYR6BLPC68_
+– Went over different models, tools and strategies in preparing a logical planning skill as a problem-solving approach.
+Worked on a storytelling scenario based on user session testing that I was working on during my research. I explained my challenges, insights and approach to my testing and findings.
 
 ### Extracurriculars
