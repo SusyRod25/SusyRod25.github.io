@@ -9,8 +9,8 @@ This is [an example](snagtecharticle.md "Title") inline link.
 
 ### Education
 
-**Michigan State University | East Lansing, MI**\-
-B.A. Experience Architecture (User Experience) | Minor: Entrepreneurship & Innovation\-
+**Michigan State University | East Lansing, MI**\
+B.A. Experience Architecture (User Experience) | Minor: Entrepreneurship & Innovation\
 Expected December 2019 | GPA: 3.3
 - Dean’s List: Fall 2015, Spring 2017, Fall 2017, Spring 2018
 
