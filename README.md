@@ -39,13 +39,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Experience
 
-**Eaton | Galesburg, MI | 5/2018 – 8/2018, 5/2019 – Present**\
-_Technical Communications Intern_\
-– Edited and added new sections in the service manual for each transmission.\
-– Revised the transmission student guide for new users.\
-– Created new onboarding instructions for future Technical Communication hire’s.\
-– Photographed Service Engineer disassembling and assembling the transmission.\
-– Edited images and designs using Illustrator and Photoshop.
+**Eaton | Galesburg, MI | 5/2018 – 8/2018, 5/2019 – Present**  
+_Technical Communications Intern_  
+\– Edited and added new sections in the service manual for each transmission.
+\– Revised the transmission student guide for new users.
+\– Created new onboarding instructions for future Technical Communication hire’s.
+\– Photographed Service Engineer disassembling and assembling the transmission.
+\– Edited images and designs using Illustrator and Photoshop.
 
 ### Projects
 
