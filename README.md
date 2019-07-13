@@ -65,3 +65,8 @@ _VAFYR6BLPC68_
 Worked on a storytelling scenario based on user session testing that I was working on during my research. I explained my challenges, insights and approach to my testing and findings.
 
 ### Extracurriculars
+
+**Society of Hispanic Engineers (SHPE) | East Lansing, MI**
+Vice-President (External), August 2019-Present  
+Secretary, August 2018-May 2019  
+Member, September 2015-Present  
